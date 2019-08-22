@@ -1,5 +1,4 @@
 function balikKata(kata) {
-    // you can only write your code here!
     var str = ''
     for (var a = kata.length-1; a >= 0; a--) {
         str = str + kata[a]
